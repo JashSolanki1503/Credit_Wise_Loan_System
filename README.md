@@ -17,7 +17,11 @@ This project builds a classification model that predicts loan approval status ba
 ---
 
 ## 📂 Dataset Information
-- Source: (Add Kaggle or source name)
+
+The dataset used in this project is a structured loan approval dataset containing 20 features related to applicant financial and personal information.
+
+This dataset was used for educational and model training purposes.
+
 - Target Variable: Loan_Status
 - Type: Classification Problem
 
